@@ -5,7 +5,14 @@ class App extends Component {
     constructor(props) {
 		super(props);
 	};
-
+function unhide (){
+     style(document).ready
+     var hid = ("div.exp")
+          if (true) hid.css("visibility",hidden);
+            hid({
+            visibility:visible
+            });
+     }
     render() {
     	return(
     		<div id="main">
