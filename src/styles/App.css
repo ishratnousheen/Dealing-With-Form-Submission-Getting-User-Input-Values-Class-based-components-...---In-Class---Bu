@@ -14,3 +14,6 @@ button{
 .bg-pink{
 	background-color:pink;
 }
+.exp{
+ visibility:hidden;
+}
